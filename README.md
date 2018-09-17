@@ -17,7 +17,7 @@ then add a few things to the `ColorBox` component.
 All of the css has been provided, as well as a good amount of starter code. The
 general structure has already been provided - you are to pick up where the code
 leaves off and make both the `Comment` and the `ColorBox` components behave
-dynamically.f
+dynamically.
 
 Here is an image of what we want once we are finished, complete with a view of
 the rendered DOM tree on the right:
